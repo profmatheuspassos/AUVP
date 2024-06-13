@@ -351,3 +351,41 @@ Aula 08 - Inserindo no diagrama
 	* O que ultrapassar o FGC deve receber nota zero
 	* CDBs podem ficar com nota 8
 * Se uma empresa tiver pontuação negativa, não se deve alocar nela
+
+Aula 10 - Pra que serve o preço médio?
+* O valor que temos investido nunca é idêntico ao valor de investimento: um segundo depois de investir ele já vai ter se modificado
+* Como compramos ações da mesma empresa em períodos diferentes, nosso preço médio em uma ação precisa ser calculado
+* Como descobrir por quanto compramos as nossas ações?
+	* É necessário ir à nota de corretagem
+* Declara os valores é diferente de pagar impostos: a declaração é apenas informar a Receita da compra no início do ano
+* A Receita Federal quer saber se os seus investimentos são compatíveis com a renda que você declara
+* Para calcular o preço médio, basta somar separadamente os valores que investiu e a quantidade de ações que comprou
+	* É necessário usar o preço médio na hora de declarar o IR
+* Exemplo:
+	* 23/09/2019 - 100 ações - 24,26 - R$ 2.426,00
+	* 08/10/2019 - 100 ações - 23,08 - R$ 2.308,00
+	* Total: 200 ações - R$ 4.734,00
+	* Divide-se 4.734 por 200 = preço médio de R$ 23,77
+* Além do IR, o preço médio tem outras utilidades:
+	* Para comprar 100 ações de WEGE3, gastariam-se R$ 5.359,00 - fez-se uma compra
+	* Aconteceu algo e o preço caiu para R$ 23,59
+	* Investimos R$ 5.359,00 e estamos agora com R$ 2.359,00
+	* Para "empatarmos" novamente, precisamos de uma alta superior a 100% - só assim a ação estaria de volta ao patamar do nosso preço médio
+	* Nesta situação a ação "entrou em "promoção" e esse é o **momento perfeito** para comprar mais e não para vender
+	* Comprar nas quedas corrige o preço médio - daí a importância de uma reserva de oportunidade
+	* Exemplo:
+		* Antes - 100 ações - 53,59 - R$ 5.359,00
+		* Agora - 100 ações - 23,59 - R$ 2.359,00
+		* Preço médio: 7.718 / 200 = R$ 38,59
+		* Aqui saímos de um preço médio de R$ 53,59 para R$ 38,59 - se a ação passar esse valor já voltamos a lucrar
+	* Mas isto só vale **se a ação for boa!**
+	* Por isso na carteira define-se a quantidade de ações a se ter em uma empresa em percentuais: valores absolutos se modificam, mas percentuais se reajustam à nova realidade do preço
+* Para comprar boas ações em momentos de crise é necessário ter uma reserva de oportunidade
+	* *Grandes investidores esperam a crise para encher o carrinho*
+* Quando a crise chega, o ideal é investir a sua reserva aos poucos
+* O ideal é usar a reserva com calma: à medida que a crise avançar os aportes aumentam, sem usar toda a reserva de uma só vez
+* Sempre que se ouvir falar em crise na Bolsa de Valores, traduza para **promoção**
+* Quanto menor o preço que você pagar nas suas participações em boas empresas, melhor
+* Ter uma reserva de oportunidade não é obrigatório, mas contribui muito com a construção de patrimônio
+	* Raul sugere 20%-25% do patrimônio como reserva de oportunidade
+
