@@ -9,6 +9,9 @@
 [[AUVP - Live 5 (2024-06-03)]]
 [[AUVP - Live 6 (2024-06-10)]]
 
+**PRIMEIRA PARTE**
+
+Aula 1 - Introdução à renda variável
 * Renda variável remunera melhor, mas também terá um risco maior - inclusive o risco de perder dinheiro
 * Não se coloca em renda variável qualquer dinheiro que será necessário em algum momento específico
 
@@ -389,3 +392,235 @@ Aula 10 - Pra que serve o preço médio?
 * Ter uma reserva de oportunidade não é obrigatório, mas contribui muito com a construção de patrimônio
 	* Raul sugere 20%-25% do patrimônio como reserva de oportunidade
 
+**AVALIAÇÃO 1**
+
+1 Acionistas minoritários têm alguns direitos por serem acionistas. Alguns deles estão citados abaixo. Marque “V” para verdadeiro e “F” para falso. E depois, assinale a alternativa correta:
+
+( ) Os acionistas minoritários têm o direito de participar de assembleias se tiverem ações do tipo “PN”;
+
+( ) Os acionistas minoritários têm o direito de receber 25% do lucro da empresa em forma de dividendos;
+
+( ) Os acionistas minoritários têm o direito de saber tudo que se passa dentro da empresa;
+
+( ) Os acionistas minoritários são aqueles que possuem o efetivo controle administrativo da empresa, por possuírem um número suficiente de ações ordinárias.
+
+Marque a alternativa correta:
+
+a. V, V, V, F.
+
+b. F, F, V, F.
+
+c. F, F, V, V.
+
+d. F, V, V, F.
+
+RESPOSTA: D
+
+2 Quando acionistas majoritários de uma empresa que está aberta na Bolsa de Valores brasileira decidem vender uma nova parcela da empresa é chamado de:
+
+a. Grupamento
+
+b. IPO
+
+c. Follow On
+
+d. Desdobramento
+
+RESPOSTA: C
+
+3 Quais as diferenças das Ações Ordinárias (ON) para Ações Preferenciais (PN)?
+
+a. Ações ON são ações com preferência no pagamento de dividendos, enquanto as ações PN são ações com direito a voto e participação nas assembleias;
+
+b. Ações ON são ações com direitos assegurados em lei e garantias do FGC, B3 e CVM, enquanto as ações PN sempre pagam 25% a mais de dividendos que as ações ON;
+
+c. Ações ON são ações com direito a voto e participação nas assembleias, enquanto as ações PN são ações que sempre pagam 25% a mais de dividendos que as ações ON.  
+
+d. Ações ON são ações com direito a voto e participação nas assembleias, enquanto as Ações PN são ações com preferência no pagamento de dividendos;
+
+RESPOSTA: D
+
+4 Como podemos definir TAG ALONG?
+
+a. Tag Along é um mecanismo de proteção à acionistas minoritários de uma companhia que garante a eles o direito de comprarem uma participação na sociedade, caso o controle da companhia seja adquirido por um investidor que até então não fazia parte da mesma. É um mecanismo garantido pela B3;
+
+b. Um direito obrigatório que todas as empresas abertas na Bolsa de Valores são obrigadas a respeitar. Que é a garantia do direito de vender as suas ações pelo mesmo valor que os controladores receberam.
+
+c. Tag Along é o nome dado a um mecanismo de proteção da Bolsa de Valores que cancela uma venda, caso o comprador não consiga oferecer uma parcela do valor oferecido aos controladores para os acionistas minoritários;
+
+d. Tag Along é um mecanismo de proteção a acionistas minoritários de uma companhia que garante a eles o direito de deixarem uma sociedade, caso o controle da companhia seja adquirido por um investidor que até então não fazia parte da mesma. Um mecanismo importante, mas não garantido, pois, precisamos sempre checar a porcentagem de Tag Along oferecida por uma empresa;
+
+RESPOSTA: D
+
+5 Sobre as principais características de um Investidor Fundamentalista que utiliza o método Buy and Hold. Marque “V” para verdadeiro e “F” para falso:
+
+(_) Os principais indicadores do _Buy and Hold_ são indicadores referentes ao preço por ação: P/L; P/VP entre outros...
+
+(_) A principal filosofia do _Buy and Hold_ é aportar e não vender; 
+
+(_) Podem optar por vender ações no médio/longo prazo, quando atingirem seus objetivos com o lucro, ou quando o mercado precificar corretamente as ações;
+
+(_) Um _holder_ só vende suas ações se os fundamentos da empresa se modificarem, caso contrário, é comprar e morrer com elas. O lucro virá apenas dos dividendos;
+
+(_) As principais características são: só comprar empresas lucrativas. Quanto mais antiga a empresa melhor; Continuar aportando mesmo nas crises; Não é necessário ficar preocupado com o preço das ações; Sem reservas de oportunidade; Nunca vender.
+
+Marque a alternativa correta:
+
+a. F, V, V, F, F.
+
+b. F, F, V, V, V.
+
+c. V, F, V, F, F.
+
+d. F, V, F, V, V.
+
+RESPOSTA: D
+
+6 Sobre os Indicadores Fundamentalistas, podemos dizer que P/VP é?
+
+a. O P/VP corresponde a sigla em inglês _Price Value Per Action_, que define o preço justo da empresa, dividido pelo valor pago no último leilão.
+
+b. O P/VP corresponde ao preço de uma ação, dividido pelo valor por ação correspondente a ela, sendo este, o indicador que diz o quanto os investidores estarão dispostos a pagar por uma ação que tem subido;
+
+c. O P/VP corresponde ao preço de uma ação, dividido pelo valor patrimonial correspondente a ela. É um indicador obsoleto que foi substituído pelo PEG _Ratio;_
+
+d. O P/VP corresponde ao preço de uma ação, dividido pelo valor patrimonial correspondente a ela, sendo este, o indicador que diz o quanto os investidores estarão dispostos a pagar pelo patrimônio líquido da empresa;
+
+RESPOSTA: D
+
+7 Como devemos realizar a comparação de empresas?
+
+a. Devemos comparar empresas de diferentes setores, utilizando-nos de indicadores, perspectivas, crescimento, história e quaisquer outros fatores que possam ser relevantes.
+
+b. Devemos comparar empresas do mesmo setor, utilizando-nos de indicadores, perspectivas, crescimento, história e quaisquer outros fatores que possam ser relevantes;  
+
+c. Devemos pegar as melhores empresas de cada setor (com auxílio de YouTube, blogs e sites de notícias) comparando-as entre elas. Assim, teremos a melhor de todas as empresas para fazer a base da nossa carteira;
+
+d. Devemos comparar empresas já consolidadas no mercado com empresas em crescimento, assim, teremos dados para fazer projeções futuras da empresa em crescimento;
+
+RESPOSTA: B
+
+8 Pra que serve o Preço Médio?
+
+a. Serve para diversas aplicações possíveis, como por exemplo, descobrir a rentabilidade de uma ação da minha carteira; descobrir meu PM e abaixá-lo numa possível crise, e para declarar o meu Imposto de Renda;
+
+b. Serve somente para declarar Imposto de Renda. O ideal é utilizar sempre um valor inferior na declaração para pagarmos menos impostos.
+
+c. Serve para sabermos o quanto estamos ganhando em cada ação. Assim, a empresa que mais se destacar deverá ser a que mais compraremos, pois, seria a melhor empresa da carteira.
+
+d. Serve para sabermos qual foi a média de preços pagos nos aportes durante o ano. Puro capricho;
+
+RESPOSTA: A
+
+9 Investidores de longo prazo devem sempre:
+
+a. Utilizar ordens de ‘_stop’_ para evitar prejuízos e ‘_start’_ para comprar mais barato.
+
+b. Realizar análise fundamentalista de ações e ter atenção nos balanços das empresas;
+
+c. Investir com ganhos determinados, sempre sabendo a hora de sair de uma empresa;
+
+d. Comprar ações de acordo com as notícias, visando sempre comprar ou vender antes de todo mundo, para se ter ganhos maiores, afinal, o último a sair sempre fecha a porta;
+
+RESPOSTA: B
+
+10 Sobre Margem Líquida, assinale a alternativa correta:
+
+a. É um indicador fundamentalista secundário, não devemos nos preocupar com ele.  
+
+b. É o valor que realmente fica com a empresa após debitadas todas as taxas. Para alguns, uma margem apertada pode ser algo ruim. Porém, uma margem apertada é uma barreira de entrada para novos concorrentes. Por outro lado, o bom de uma margem apertada é que, **em alguns casos**, mudanças no cenário **podem fazer** com que o lucro da empresa aumente vertiginosamente;
+
+c. É o valor que realmente fica com a empresa, após debitadas todas as taxas. Uma Margem Líquida apertada demonstra que o percentual de ganho em comparação com a receita é pequeno, por isto, quanto maior a margem, melhor;
+
+d. É o valor que realmente fica com a empresa, após debitadas todas as taxas. Uma Margem Líquida apertada demonstra que o percentual de ganho, em comparação com a receita é pequeno, por isto, quanto menor a margem, melhor;
+
+RESPOSTA: B
+
+11 São indispensáveis para o investidor de longo prazo
+
+a. Ordens de stop para evitar prejuízos e start para comprar barato
+
+b. Análise fundamentalista de ações e atenção aos balanços das empresas
+
+c. Comprar uma ação de acordo com as notícias e vender qual meu YouTuber favorito vender
+
+d. Investir com prazo determinado e saber a hora de sair de uma empresa
+
+RESPOSTA: B
+
+12 É proibido para o investidor fundamentalista
+
+a. Não observar o valor oferecido diariamente pelas as ações no Broker.
+
+b. Pagar taxa de corretagem.
+
+c. Não utilizar uma ordem de stop loss.
+
+d. Comprar ações por que subiram ou caíram muito sem analisar fundamentos.
+
+RESPOSTA: D
+
+**SEGUNDA PARTE**
+
+Aula 11 - Proventos
+* Depois que o investidor se torna sócio de uma empresa por meio da compra de ações, ele passa a ter alguns direitos como acionista
+* Esses direitos são pagos de quatro formas diferentes:
+	* Dividendos
+	* Juros sobre Capital Próprio (JCP)
+	* Bonificação
+	* Direitos de Subscrição
+* Dividendos:
+	* Os dividendos são o direito de participação nos lucros de uma empresa de capital aberto
+	* Eles são pagos de acordo com a quantidade de ações que o investidor possui
+		* Um milhão de ações
+		* Lucro: R$ 1.000.000,00
+		* Caso a empresa distribuia 100% dos lucros, cada ação receberia R$ 1,00 em dividendos
+		* Acionista A tem 1000 ações, recebe R$ 1.000,00
+		* Acionista B tem 2000 ações, recebe R$ 2.000,00
+	* De acordo com a Lei das SAs (Lei 6.404 de 1976), todas as empresas devem distribuir **no mínimo** 25% do lucro líquido em forma de dividendos
+	* A empresa é obrigada a distribuir dividendos **caso** ela tenha registrado lucro
+	* A empresa pode optar por investir o dinheiro em crescimento e com isso não geraria lucro - e por isso não teria de pagar dividendos
+		* Quando isso acontece o patrimônio da empresa aumenta, e você como sócio, dono de uma porcentagem, também vê seu patrimônio se valorizar
+		* De modo geral, alguns investidores se sentem prejudicados ao não receber dividendos, sendo que a empresa está reinvestindo no negócio: é necessário entender que ao reinvestir no negócio a sua empresa cresce assim como seu patrimônio
+	* Se a empresa tiver prejuízo, o investidor não tem nada para receber
+		* *Holding é uma empresa que tem por objetivo social adquirir participação em outras empresas*
+	* Referente ao pagamento de dividendos o valor nominal e o valor líquido são os mesmos
+	* Isso acontece porque os dividendos são isentos de imposto de renda
+* Juros sobre Capital Próprio: outro tipo de provento que o investidor, como acionista, tem direito
+	* No JCP o imposto é retido na fonte: a tributação ocorre no momento do pagamento do provento
+	* Ao distribuir proventos em forma de JCP a empresa faz (em seu relatório contábil) o lançamento do pagamento como despesa
+	* Proventos podem ser pagos como JCP porque a empresa tem benefícios fiscais - isto sai como gastos da empresa e ela tem vantagens
+	* No JCP o valor nominal e o líquido são diferentes uma vez que o recolhimento do imposto é feito na hora do pagamento
+	* Ao pagar JCP aos acionistas, a empresa faz o lançamento como despesa, e com isso há um benefício fiscal uma vez que o imposto foi repassado no momento do pagamento
+* Bonificação:
+	* Além do pagamento de dividendos e JCP, a empresa pode remunerar o acionista de outra maneira: ela pode pagar o acionista com mais ações da própria empresa, aumentando assim a participação do acionista na empresa
+	* As bonificações, assim como os outros proventos, acontecem de acordo com a posição acionária do investidor
+		* 1 ação = 0,10 ações novas
+		* 10 ações = 1 ação nova
+	* A proporção é sempre igual para todos os acionistas, não existindo distinções
+	* Uma vantagem da bonificação é o "reinvestimento" automático na própria empresa e o aumento de posição acionária
+* Direitos de Subscrição:
+	* Diferentemente dos demais proventos, os direitos de subscrição não são "entregues" de maneira automática: você como acionista tem de se manifestar
+		* A padaria tem 100 ações e você é dono de uma ação, ou seja, 1% da padaria
+		* Se forem emitidas mais 100 ações, você passaria a ser dono de uma ação de 200 ações disponíveis - ou seja, agora você é dono de 0,5% da padaria
+	* A empresa faz isso quando ela precisa de mais dinheiro para fazer novos investimentos, por exemplo - ou quando precisa pagar uma dívida
+	* O investidor não é obrigado a adquirir os direitos de subscrição
+	* Caso a empresa decida emitir novas ações, ela tem de oferecer ao acionista o direito de subscrição - assim ela garante que o acionista possa comprar uma quantidade de ações que seja suficiente para manter a sua posição acionária na empresa
+	* O direito de subscrição é importante para que, no longo prazo, a relevância do acionista na empresa não diminua
+		* No exemplo da padaria, para continuar tendo 1% o acionista teria de adquirir mais uma ação, para ter 2 de 200
+		* Dessa forma o direito de subscrição consiste em oferecer essa uma ação por um preço menor para que já é acionista, para que possa manter sua posição acionária proporcionalmente falando
+	* Se o acionista gosta da empresa, ele pode exercer esse direito para manter efetivamente sua posição proporcional
+* Além da criação de novas ações (follow-on) existe a oferta secundária (um tipo específico de direitos de subscrição)
+	* Na oferta secundária, ao invés de criar novas ações, a empresa pega ações já existentes (de posse dos controladores) e oferta no mercado
+		* João (controlador da padaria) decide vender uma parte de suas ações, ou seja, 10 mil ações
+		* Neste caso não há a diluição, pois não foram criadas novas ações - apenas foram vendidas ações já existentes
+	* O acionista também tem de exercer este direito, mas caso não o exerça, sua posição acionária proporcional não é diminuída porque não houve a criação de novas ações
+* Oferta restrita (outro tipo específico de direitos de subscrição)
+	* A empresa opta por realizar a oferta subsequente de ações a um grupo de investidores qualificados
+	* Esses investidores, no entanto, não são escolhidos ao acaso
+	* Eles devem atender a alguns critérios que os qualificam - por exemplo, ser pessoa física ou jurídica com carteira de investimento superior a R$ 1 milhão
+	* Além disso, na oferta restrita a empresa só pode dispor as ações a no máximo 75 investidores - porém apenas 50 podem tomar parte na oferta
+* Como acionista, os direitos de subscrição ficam disponíveis na sua corretora, na aba de subscrição
+
+Aula 12 - Dividendos e Data EX
+* 
