@@ -883,4 +883,59 @@ Aula 17 - Entendendo e comparando fundos imobiliários
 	* Vacância física e financeira
 	* Ocupação física e financeira
 	* Localização dos ativos
-* 
+* A importância do P/VP
+	* Indica quanto o mercado está disposto a pagar pelo patrimônio do fundo
+	* Diferentemente das ações, nos FIIs o P/VP é o indicador objetivo mais importante: uma ação com P/VP de 10 não indica muita coisa porque ela tem potencial de valorização exponencial em longo prazo, o que não ocorre com imóveis - se você compra um imóvel acima do preço, o retorno é menor
+	* Se abaixo de 1, em princípio BARATO
+	* ﻿﻿Se igual ou próximo de 1, em princípio JUSTO (entre 0,95 a 1,05)
+	* Se acima de 1, em princípio CARO
+* Exemplo burro de estratégia com P/VP
+	* Renda fixa está alta? "Mim dê, papai" --> é o momento ideal para comprar FIIs de tijolo
+	* Renda fixa baixa aumenta o P/VP
+* A importância do Dividend Yield
+	* Indica quanto o investidor deve esperar receber de retorno em relação ao valor atual da cota
+	* Fundos imobiliários são obrigados a distribuir 95% do que lucram em forma de dividendos
+	* Se um fundo imobiliário está pagando pouco, significa que ele não está sendo lucrativo
+	* Um investidor deve **esperar** um retorno igual ou próximo a 8% a.a. em rendimentos **em qualquer cenário**, à exceção de momentos de crise
+		* Se muito abaixo desse valor, pesquisar e entender as causas
+		* Se muito acima desse valor, vale o mesmo
+	* Lembrar que os FIIs de tijolo já são protegidos pela inflação, já que os contratos de aluguel são atualizados pelo IGP-M
+	* Pelo que estou pesquisando ao analisar o DY?
+		* ﻿﻿Lucro não recorrente
+		* Despesas não recorrentes
+		* Investimentos ou vendas atípicas
+		* Fraude ou má gestão
+* A importância da liquidez
+	* Fundos imobiliários podem ser pouco líquidos (difíceis de comprar e vender)
+	* O que estamos procurando?
+		* Fundos pouco negociados e que sejam difíceis de vender no futuro
+* A importância da Taxa de Administração
+	* Ela define quanto você está pagando aos gestores do fundo
+	* A taxa média de mercado é de 0,25% a 2% a.a.
+	* Quanto menor, melhor
+	* O que estamos procurando?
+		* Fundos com taxas abusivas ou incondizentes com o desempenho
+		* Gestores que querem ganhar mais do que os próprios cotistas
+	* "*Faça chuva ou faça sol, haverá cobrança da taxa de administração!*"
+* A importância da Taxa de Performance
+	* Ela é paga para os gestores quando o fundo performa acima de um benchmark específico
+	* A taxa média de mercado é 20% a.a. do que performar acima do CDI, IPCA, IBOVESPA ou IFIX
+	* A cobrança da taxa de 20% a.a. é "normal", mas o investidor não quer esta cobrança - "canalhice"
+	* O que estamos procurando?
+		* A maioria dos gestores são meio "canalhas" e atrelam a taxa ao CDI, que é o indicador da Renda Fixa
+		* Estamos procurando por gestores fora da curva de mercado, mas não da para eliminar os que cobram os 20% acima do CDI... Infelizmente!
+* A importância da Vacância Física
+	* A taxa de desocupação dos imóveis do FIl
+	* O ideal é que ela seja a menor possível
+		* Em alguns casos podemos tolerar uma taxa mais alta em Flls com poucos imóveis
+	* O que estamos procurando?
+		* Uma taxa de vacância **baixa** com contratos de longa duração, indicam um fundo estável e com ampla capacidade de geração de renda
+		* Uma taxa de vacância **alta**, em muitos casos, indica uma má escolha dos gestores pela aquisição ou desenvolvimento dos imóveis
+		* Alguns setores tradicionalmente tem taxas menores: Logística, Hospitais, Imóveis voltados a órgãos públicos ou agências bancárias
+		* Na contramão, alguns setores tradicionalmente têm taxas de vacância altas: shoppings, escritórios e hotéis
+	* **A vacância nem sempre é eliminatória**
+		* Crises e desocupação podem ser excelentes momentos de aquisição de cotas
+		* Não seja grosseiro: observe o histórico
+* A importância da Vacância Financeira
+	* Lado a lado com a vacância física, o que interessa aqui é GRANA
+	* De nada vale alugar um imóvel muito abaixo do preço, que vale para diminuir a vacância, é aqui onde pegamos gestores no pulo
