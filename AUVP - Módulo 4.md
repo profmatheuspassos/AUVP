@@ -862,3 +862,25 @@ Aula 17 - Entendendo e comparando fundos imobiliários
 * O investidor de longo prazo utiliza FIIs para duas situações específicas:
 	* Viver de renda
 	* Proteger o patrimônio
+* O investidor precisa analisar qual é o seu caso:
+	* ﻿﻿Se ele ainda pretende trabalhar por mais de 20 anos, vamos utilizar os Flls como proteção (*mas realizar esta ação não é obrigatória*) - foco no patrimônio
+	* ﻿﻿Se ele pretende trabalhar por menos de 20 anos antes de viver de renda, vamos começar a focar na geração de renda - foco na renda
+* O que normalmente utilizamos para eliminar um Fil de tijolo?
+	* ﻿﻿Monoativo
+	* ﻿﻿Mono-inquilino
+		* ﻿﻿**Mono-tudo** --> Inventei a palavra
+	* ﻿﻿Renda inconstante
+	* Taxas de administração altas ou incondizentes
+* Para quem os Fils de tijolo são ideais?
+	* Para investidores conservadores que buscam segurança e estabilidade patrimonial
+	* Se você já está na fase de viver de renda, é melhor contar com um pássaro na mão do que com dois voando
+* Indicadores básicos para Fils de tijolo:
+	* ﻿﻿P/VP
+	* Dividend Yield
+	* Liquidez
+	* Taxa de administração
+	* Taxa de performance
+	* Vacância física e financeira
+	* Ocupação física e financeira
+	* Localização dos ativos
+* 
