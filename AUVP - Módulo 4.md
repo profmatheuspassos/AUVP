@@ -8,6 +8,7 @@
 [[AUVP - Live 4 (2024-05-28)]]
 [[AUVP - Live 5 (2024-06-03)]]
 [[AUVP - Live 6 (2024-06-10)]]
+[[AUVP - Live 7 (2024-06-17)]]
 
 **PRIMEIRA PARTE**
 
@@ -623,4 +624,238 @@ Aula 11 - Proventos
 * Como acionista, os direitos de subscrição ficam disponíveis na sua corretora, na aba de subscrição
 
 Aula 12 - Dividendos e Data EX
+* Os dividendos nada mais são do que a participação do investidor nos lucros da empresa
+* O valor pago na forma de dividendos sai do preço da ação
+* A empresa não imprime dinheiro: o valor que é pago em dividendos sai diretametne do caixa da empresa
+* Exemplo da padaria:
+	* Contando com toda sua estrutura logística, maquinário, etc., chegou-se na avaliação de um milhão de reais
+	* Desse montante vamos supor que R$ 100 mil fosse dinheiro do caixa da empresa
+	* João pensa: já que vou vender, que tal pegar esses R$ 100 mil? Se isto ocorrer agora a padaria vale R$ 900 mil
+* O pagamento de dividendos possui um procedimento padrão que segue uma "linha do tempo":
+	* Empresa define payout e faz anúncio
+		* O payout é a porcentagem do lucro líquido do período que será distribuído em forma de dividendos
+		* Após definir o payout chega-se ao valor que será pago por ação, dividindo o montante pela quantidade de ações emitidas pela empresa
+	* Empresa define "data ex" e data de pagamento
+		* Data ex-dividendos é a data na qual uma ação perde direito a dividendos
+		* Receberá os dividendos quem "dormir" com as ações no dia da data ex
+		* Exemplo: se a data ex for definida para o dia 15 de junho, as ações compradas após essa data não receberão o pagamento de dividendos
+	* Valor a ser recebido por ação é divulgado
+		* Geralmente isso ocorre no mesmo dia da definição da data ex
+	* Ação entra em ex direitos e valor é descontado
+		* O valor dos dividendos é descontado do preço da ação, como no exemplo da padaria
+	* Dividendos são pagos
+	* Volta tudo ao normal
+		* Depois desse processo, as ações podem cair ou subir normalmente, mas o valor dos dividendos saiu do preço da ação - mesmo que ela volte ao patamar anterior, ele foi removido
+* Se a pessoa ainda não está na fase de viver de renda, é importante reinvestir todo o valor recebido para aumentar o patrimônio do investidor
+	* Mesmo sem fazer aportes mensais, o reinvestimento de dividendos uma vez ao ano possibilita uma diferença enorme no montante acumulado ao final de 10 anos
+	* Além de aumentar o patrimônio, o reinvestimento de dividendos aumenta sua participação na empresa, o que consequentemente aumenta os dividendos a serem recebidos no futuro
+* Só existe juros compostos na Bolsa se houver reinvestimento dos dividendos
+* O Dividend Yield (DY) é um indicador que estsabelece um paralelo entre a cotação e o valor pago em forma de dividendos
+	* Para calcular é simples:
+	* (Valor pago em dividendos / preço da ação) x 100 = Dividend Yield
+	* R$ 2,00 / R$ 40,00 = 0,05 x 100 = 5% Dividend Yield
+* Apesar de ser um indicativo de que a empresa vem apresentando bons resultados (pois só paga dividendos quem tem lucro), os dividendos não são um fator decisivo na hora de investir
+	* É preciso analisar se a distribuição de dividendos não está sendo prejudicial para a empresa
+	* Para que uma empresa cresça é necessário fazer aquisições e investimentos
+* Exemplo:
+	* A pessoa A decide investir R$ 100 mil na empresa A
+	* Ela busca uma empresa que paga bons dividendos e encontra uma grande empresa que tem 10% de DY, ou seja, R$ 10 mil por ano.
+	* Com o passar de 10 anos, a empresa cresce pouco, pois a maior parte do dinheiro foi usada para pagar dividendos. Ao final dos 10 anos, a pessoa A recebeu um total de R$ 100 mil em dividendos, e seu patrimônio total (investimento inicial + dividendos recebidos) agora é de R$ 200 mil.
+	* A pessoa B decide investir R$ 100 mil na empresa B, mas esta paga 2% de DY, ou seja, R$ 2 mil por ano
+	* Após 10 anos, a empresa cresce significativamente e a pessoa B, como sócia, vê seu patrimônio crescer.
+	* Ao final de 10 anos, a empresa B vale R$ 1 milhão, e a pessoa B recebe os mesmos R$ 20 mil que a pessoa A, graças ao DY de 2% sobre o novo valor do investimento.
+* **Resumo: 2% de muita coisa é melhor que 10% de pouco**
+
+Aula 13 - Desdobramentos e Grupamentos
+* Desdobramentos e grupamentos de ações são coisas extremamente comuns, apesar de gerar muitas dúvidas
+- ﻿﻿Ambos possuem nomenclaturas em inglês sendo Split e Inplit
+	- Grupamento: inplit
+	- Desdobramento: split
+- Quando temos uma nota muito grande, é normal ficar sem dinheiro trocado e queremos trocar elas por notas menores
+- Isso porque as notas maiores são menos líquidas que as menores, são mais difíceis de gastar
+- Com as ações acontece algo bem parecido: o preço delas aumenta e com isso elas começam a se tornar menos líquidas
+- ﻿﻿Para dar mais liquidez, a empresa pode optar por desdobrar suas ações em partes menores, como no exemplo abaixo:
+	- Uma ação RS 100,00 - Um lote R$ 10.000,00
+	- Com o split, cada ação (R$ 100,00) irá corresponder a 10 ações de R$ 10,00
+- Agora para negociar um lote (100 ações) é preciso R$ 1.000,00 e não mais R$ 10.000,00
+- É comum, quando uma empresa sobe muito, que a empresa faça o desdobramento de suas ações - vantagem: **aumento de liquidez**
+- A única melhoria seria o aumento na liquidez e esse aumento pode fazer a cotação subir novamente, já que mais pessoas podem comprar a ação agora
+- ﻿﻿Investidores iniciantes podem confundir e achar que a ação caiu, fazendo com que comprem ações sem entender o movimento, elevando o preço delas
+- Quando uma empresa diz que vai desdobrar suas ações, isto é sinal de que a empresa está crescendo - ou seja, **é um bom sinal**
+- O desdobramento é visto de forma positiva pelo mercado - é como trocar uma nota de R$ 100 por 10 notas de R$ 10
+- O contrário também acontece: é o chamado grupamento, ou inplit
+- ﻿﻿Quando o preço de uma ação cai demais, é normal que ela faça um grupamento, criando espaço para cair ainda mais - o que é **sempre um sinal ruim**
+- No grupamento/inplit, aAo invés de dividirmos uma ação em várias, vamos agrupar várias ações em uma ação
+- ﻿﻿Muitas vezes acontece para cumprir a regra que determina que uma empresa não pode ser cotada abaixo de R$ 1 no Brasil durante muito tempo
+
+Aula 14 - Aluguel de ações
+* Para vender uma ação na Bolsa de Valores, não é necessário ter ela
+* A Bolsa de Valores é o ÚNICO lugar no mundo onde esse fenômeno acontece
+* Quem aluga as ações pensa que o preço irá cair, e por isso realiza uma operação chamada "venda a descoberto"
+- ﻿﻿Funciona da seguinte forma:
+	- Acreditando que o preço de um ativo irá cair, e sem ter ele em carteira, o especulador pode colocar uma ação à venda
+	- Neste momento as ações serão emprestadas da carteira de outra pessoa
+	- O especulador vendeu a R$ 20,19 e comprou ao final do dia a R$ 20 - **ganhou**
+	- O especulador vendeu a R$ 20,19 e comprou ao final do dia a R$ 20,50 - **perdeu**
+- O especulador pega as ações emprestadas de alguém que está alugando suas ações
+- ﻿﻿Em uma operação de day trade, no início do dia você vende (a ação que não tem) e ao final do dia você compra essas ações de volta
+- ﻿﻿Se o preço de venda for maior que o de compra o especulador ganhou dinheiro
+- Se o especulador vendeu e comprou de volta por um valor maior, ele perdeu dinheiro
+- Existe o risco do investidor de longo prazo não receber minha ação de volta? NÃO!
+	- ﻿﻿E meus dividendos? Eu perco se a ação estiver alugada? TAMBÉM NÃO!
+	- ﻿﻿O que muda então? Enquanto suas ações estiverem alugadas você não pode vendê-las
+- Em operações de curto prazo, o especulador pode operar dezenas de vezes alavancado, ou seja, com um dinheiro que ela não tem
+	- *É o caminho perfeito para o fracasso!*
+- Ao se alugar as ações, elas não serão visualizadas enquanto estiverem alugadas, porém os dividendos serão pagos normalmente
+- O investidor não pode vender suas ações enquanto elas estiverem alugadas
+- ﻿﻿Qualquer problema de insolvência a corretora te devolve o dinheiro
+
+Aula 15 - Índices e ETF's
+* O que é o índice Ibovespa?
+	* O índice BOVESPA, ou IBOVESPA, nada mais é do que uma carteira teórica de investimentos
+	* ﻿﻿É uma carteira hipotética feita pela B3 (Bolsa, Brasil, Balcão) empresa responsável pela nossa bolsa de valores
+	* A B3 antigamente se chamava BM&F BOVESPA - o índice é tão popular que mesmo após o rebranding o nome *Índice Bovespa* permaneceu
+* Nas plataformas aparece mais ou menos isso:
+	* A primeira parte, "INDEX", significa que se trata de um índice
+	* A segunda parte, "BVMF", indica qual índice é
+	* A terceira parte, "IBOV", é o ticker do índice
+* O Ibovespa é uma **carteira de ações**
+* A única função do índice é indicar se a Bolsa de Valores brasileira, de um modo geral, está caindo ou subindo, em alta ou em baixa
+* A B3 compila, em uma carteira teórica, as ações mais negociadas, em porcentagens ideais de acordo com a relevância das empresas no mercado
+* A cada quatro meses essas porcentagens são modificadas para que ele reflita "fielmente" a realidade do mercado
+* Para montar essa carteira utilizaram algumas regras importantes
+* Dentre as regras para compor a carteira duas se destacam:
+	* ﻿As ações listadas não podem valer menos de R$ 1,00. (Penny Stocks)
+	* ﻿﻿As **ações somadas** (55 a 65 empresas a depender do período) precisam corresponder a **80% de todo o volume negociado** na Bolsa de Valores nos últimos 4 meses - por isso é uma representação realista do mercado como um todo
+* O que são os pontos do Ibovespa?
+	* Sendo o IBOVESPA uma carteira de ações, os pontos nada mais são do que o valor que seria gasto em reais para comprar (literalmente)
+	* O número de pontos é exatamente o mesmo valor que você gastaria para comprar a carteira do IBOV
+	* ﻿﻿Da mesma forma, outras bolsas ao redor do mundo também possuem seus índices
+* É possível investir em um índice?
+	* Não existe investir diretamente no índice
+	* Para fazer isso o investidor teria que comprar a carteira inteira e ir atualizando a medida que o índice fosse atualizado
+	* ﻿﻿Mas o investidor pode investir em um ETF que faz exatamente isso: esse fundo replica o comportamento do índice comprando as mesmas ações na mesma proporção e atualizando a medida que o índice for atualizado
+* O termo ETF significa "Exchange-traded fund" ou do português "Fundos Negociados em Bolsa"
+	* ﻿﻿No Brasil temos um que simula o IBOVESPA chamado BOVA11
+	* Comprando BOVA11 é possível comprar uma participação em todas as empresas que compõem o Ibovespa - a oscilação nesse fundo vai ser exatamente a mesma que a do Índice Bovespa
+* Outra opção de ETF que replica um índice é o IVVB11
+	* Este ETF replica o índice S&P 500, índice americano das 500 maiores empresas da bolsa dos Estados Unidos
+	* ﻿﻿Outro fato importante é que ele replica o S&P 500 em dólar, deixando uma exposição também à moeda americana na sua carteira
+* No Brasil existe um número restrito de ETFs, porém existem milhares de opções no mercado americano
+	* Apesar de estar se popularizando cada dia mais, no mercado brasileiro ainda não há uma variedade tão grande de ETFs
+* Vantagens de se investir em ETFs:
+	* Maior diversificação
+	* ﻿﻿Por ser um pacote de ações o investimento em ETF conta com maior diversificação em número de ativos e segmentos de mercado
+	* ﻿﻿O investidor pequeno, com pouco capital para investir, pode encontrar dificuldades para diversificar em uma maior quantidade de ativos
+	* ﻿﻿No mercado fracionário, com apenas R$ 1.000,00 um investidor jamais conseguiria diversificar da mesma maneira que um ETF consegue, por ser um pacote de ações
+	* Menor volatilidade graças a diversificação
+	* Por acompanhar o desempenho de um índice específico, alguns ETF's performam até melhor que grandes gestores de fundos de ações
+	* ﻿﻿A maioria dos gestores e fundos, no longo prazo, acabam performando abaixo do IBOVESPA, o que é algo completamente normal
+	* ﻿﻿Portanto ao investir em um ETF que replica um índice, o investidor tem a garantia que irá performar ao menos igual a média do mercado
+	* A taxa de administração de um ETF é baixa, o que é uma vantagem quando comparada à de alguns fundos de investimento
+	* Não existe o trabalho de um gestor - apenas a alocação de capital de acordoc om um índice ou setor
+* Desvantagens de se investir em ETFs:
+	* No Brasil ainda há poucos ETFs
+	* Os ETF's brasileiros não pagam dividendos, eles reinvestem os dividendos em novas cotas
+	* Isso pode ser uma coisa boa para alguns, uma vez que o reinvestimento já é feito de maneira automática
+	* Porém por não receber os dividendos o investidor pode acabar não aproveitando momentos e oportunidades para reinvestir os dividendos caso eles fossem pagos
+	* No caso de ETFs não existe isenção de até R$ 20 mil por mês: qualquer venda com lucro gera a necessidade de emitir uma DARF e fazer o recolhimento de imposto
+	* No caso específico do IVVB11, no Brasil o investidor paga uma pequena taxa: é mais fácil comprar o ETF que replica o mesmo índice lá fora
+* Principais ETFs do Brasil
+	* Aqui temos a lista dos tickers e o que fazem os principais ETF's disponíveis no Brasil
+	* BOVA11: Replica o Indice Bovespa com as ações mais negociadas do Brasil
+	* IVVB11: Replica o Indice S&P 500, com as 500 maiores empresas dos EUA
+	* IMAB11: Títulos IPCA do Tesouro Direto
+	* SMLL11: Replica o índice SMLL - small caps brasileiras
+
+Aula 16 - Fundos Imobiliários
+* Sites para consultar FIIs:
+	* https://fiis.com.br
+	* https://www.fundsexplorer.com.br/ranking
+* Um fundo imobiliário é uma espécie de "condomínio" de investidores, que reúnem seus recursos para que sejam aplicados em conjunto no mercado imobiliário
+* O mais comum é que esse dinheiro seja utilizado na aquisição ou construção de imóveis físicos para aluguel
+- ﻿﻿Os ganhos obtidos são divididos entre os participantes na proporção em que cada um aplicou
+- Os gestores dos fundos tomam as decisões de onde e no que investir, de acordo com objetivos e políticas pré-definidas
+- ﻿﻿Os investimentos podem ser bem sucedidos ou não, e isso determina a valorização ou a desvalorização das cotas dos fundos
+- Tipos de fundos:
+	- FIAGRO: Fundo de investimento em cadeias agroindustriais - ainda sem muitos detalhes por serem recentes
+	- Fundos de Desenvolvimento Imobiliário
+		- Recomendados para quem tem mais dinheiro
+		- ﻿﻿Mais arriscados / Maior potencial de retorno
+		- ﻿﻿Não indicado para quem quer viver de renda
+		- Riscos:
+			- O empreendimento não conseguir a licença ambiental
+			- ﻿Os imóveis não serem vendidos
+			- A prefeitura não liberar o habite-se
+			- A obra ficar mais cara que o esperado
+		- Fundos de desenvolvimento costumam oferecer uma renda mínima garantida (RMG) aos cotistas enquanto os imóveis estão sendo construídos para incentivá-los a permanecer no fundo
+		- Os fundos que constroem imóveis residenciais costumam vendê-los quando eles ficam prontos
+		- Sugestões deste tipo de fundos apenas para pesquisa, não investimento: MFII11, CTXT11, RBDS11, RBBV11
+	- Fundos de Renda de Shoppings
+		- Lucra alugando para os lojistas
+		- Popularidade durante a pandemia
+		- Distribuição da renda quase que fixa dos alugueis
+		- **Um dos fundos mais seguros**
+		- Não recomendado investir em fundos com único shopping
+		- Riscos:
+			- Problemas em momentos de crise
+			- Afetados pelas quebras das empresas para as quais alugam
+			- Exemplos: VISC11, FLRP11, ABCP11, XPML11
+	- Fundos de renda de Lajes corporativas e galpões
+		- Empresas que precisam de centros de logística
+		- Acompanha o crescimento do E-Commerce
+		- Notas entre AA a C mede o risco:
+			- Localização
+			- Área útil
+			- Número de vagas de garagem
+			- Altura do pé direito
+			- Piso elevado
+			- Gerenciamento predial
+		- Exemplos: HGLG11, BTLG11, FFCI11, BMLC11B, EDGA11B
+	- Fundos de hotéis
+		- Exploram o ramo hoteleiro
+		- Custos fixos e renda variável (sazonalidade)
+		- Riscos dos Fundos de Hotéis:
+			- Sensível aos ciclos
+			- Sensível ao contexto internacional e seus eventos de grande magnitude
+			- Ciclos rápidos com eventuais quedas igualmente rápidas
+		- É um tipo de fundo um pouco mais "perigoso" - o ideal é evitar
+		- Exemplos: BRHT11B, HTMX11B
+	- Fundos Imobiliários de Escolas, Universidades e Hospitais
+		- Fundos "temperamentais"
+		- Normalmente alugados para um único inquilino
+		- Faculdades e Universidades
+		- Alocados fora da cidade
+		- Faculdades e Universidades é melhor do que Hospitais
+		- Risco um pouco maior devido aos próprios locatários:
+			- Expansão das cidades
+			- Contratos Longos
+			- Perigosos ao se falar de hospitais
+		- Exemplos: AEFI11, FAED11, BFCFL11, HCRI11B, NSLU11B
+	- Fundos de fundos
+		- Um fundo imobiliário que investe em outro fundo imobiliário
+		- Extremamente diversificados
+		- Gestão Profissional
+		- Vantagem de Aportes Menores
+		- Investem em diferentes estratégias
+		- Rendimentos Variáveis
+		- Problema: possui dupla taxa de administração
+		- Exemplos: TFOF11, BCFF11, CXRI11, PLRI11
+	- Fundos de compra e venda de imóveis
+		- Pouco comum no Brasil
+		- Desempenho agressivo
+		- Fundos em fazendas
+		- Exemplo: BRCR11
+	- Fundos de recebíveis imobiliários ("fundos de papel")
+		- "Gambiarra" Renda fixa disfarçada de renda variável
+		- Empresta dinheiro a juros abusivos
+		- Retornos de 1.5% ao mês
+		- Os principais papéis destes tipos de fundos são os CRIs
+		- Exemplos: HCTR11, VRTA11, KNCR11, MXRF11, MCCI11
+	- Fundos mistos:
+		- Rentabilidade maior
+		- Maior segurança com a diversificação
+		- Exemplos: JSIM11, FCFL11, MBRF11, MFII11
+
+Aula 17 - Entendendo e comparando fundos imobiliários
 * 
