@@ -858,4 +858,7 @@ Aula 16 - Fundos Imobiliários
 		- Exemplos: JSIM11, FCFL11, MBRF11, MFII11
 
 Aula 17 - Entendendo e comparando fundos imobiliários
-* 
+* A primeira parte da análise é focada em saber o que não queremos: assim evitamos perder tempo com uma análise demorada, que já desclassificaria este fundo
+* O investidor de longo prazo utiliza FIIs para duas situações específicas:
+	* Viver de renda
+	* Proteger o patrimônio
