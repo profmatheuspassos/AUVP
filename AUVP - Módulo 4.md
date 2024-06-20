@@ -889,9 +889,9 @@ Aula 17 - Entendendo e comparando fundos imobiliários
 	* Se abaixo de 1, em princípio BARATO
 	* ﻿﻿Se igual ou próximo de 1, em princípio JUSTO (entre 0,95 a 1,05)
 	* Se acima de 1, em princípio CARO
-* Exemplo burro de estratégia com P/VP
-	* Renda fixa está alta? "Mim dê, papai" --> é o momento ideal para comprar FIIs de tijolo
-	* Renda fixa baixa aumenta o P/VP
+	* Exemplo burro de estratégia com P/VP
+		* Renda fixa está alta? "Mim dê, papai" --> é o momento ideal para comprar FIIs de tijolo
+		* Renda fixa baixa aumenta o P/VP
 * A importância do Dividend Yield
 	* Indica quanto o investidor deve esperar receber de retorno em relação ao valor atual da cota
 	* Fundos imobiliários são obrigados a distribuir 95% do que lucram em forma de dividendos
@@ -938,4 +938,103 @@ Aula 17 - Entendendo e comparando fundos imobiliários
 		* Não seja grosseiro: observe o histórico
 * A importância da Vacância Financeira
 	* Lado a lado com a vacância física, o que interessa aqui é GRANA
-	* De nada vale alugar um imóvel muito abaixo do preço, que vale para diminuir a vacância, é aqui onde pegamos gestores no pulo
+	* De nada vale alugar um imóvel **muito abaixo do preço**, que vale para diminuir a vacância: é aqui onde pegamos gestores no pulo
+	* O que estamos procurando?
+		* Uma taxa de vacância financeira **baixa** com uma boa ocupação do imóvel
+		* **Redobre a sua atenção** com uma vacância financeira alta, exceto em contratos de longa duração
+* A Ocupação Física e Financeira
+	* O exato oposto de vacância é ocupação: quanto maior melhor
+	* Simples e eficaz, é apresentada em indicadores que vão de 0 a 100%
+	* O que estamos procurando?
+		* Ocupações acima dos 80% ou oportunidades onde elas estejam abaixo por um curto período de tempo
+		* Crises acentuadas diminuem a ocupação e isso nem sempre é ruim
+		* Exemplo burro de estratégia com OCUPAÇÃO:
+			* Pandemia: Flls de shoppings desocupados
+			* O que fazer? Vender?
+			* Pelo contrário, **comprar**
+* A importância da localização dos ativos
+	* Imóveis em grandes centros e capitais são mais fáceis de alugar do que os mais afastados
+	* Atenção à região e à qualidade dos imóveis
+	* Imóveis antigos demais exigem mais gastos com manutenção, reduzindo os lucros
+	* O que estamos procurando?
+		* Latadas de modo geral: imóveis construídos para finalidade específica e sem utilidade nos dias atuais
+		* Imóveis luxuosos de outras "eras" que se tornam encalhes
+		* Imóveis estratégicos para centros de logística afastado de centros (bons)
+* Setores dos Flls de Tijolo
+	* Agências bancárias
+	* Lajes corporativas (escritórios, etc)
+	* Galpões logísticos e centros de distribuição
+	* Hotéis e hospitais
+	* Shoppings centers
+	* Escolas e universidades
+	* Imóveis rurais
+	* Varejo, lojas e supermercados
+	* Galpões e imóveis industriais
+* Indicadores básicos para Fils de Papel
+	* P/VP
+	* Dividend Yield
+	* Liquidez
+	* Taxa de Administração
+	* Taxa de performance
+	* Riscos dos contratos
+	* Performance histórica
+* Os indicadores básicos são iguais?
+	* Sim, inclusive são bem parecidos com o que vimos nas ações, por isso começamos o aprendizado pelos Flls de tijolo
+* Para quem os Flls de Papel são ideais?
+	* Para investidores que buscam ALTA RENTABILIDADE e pagamentos recorrentes
+	* Lembrando que os Fils de papel **são mais arriscados**
+* A importância dos riscos dos contratos
+	* Fils de papel emprestam dinheiro para empresas do setor imobiliário
+	* Precisamos avaliar os riscos dessas empresas e as taxas desses empréstimos
+	* O que estamos procurando?
+		* Uma carteira diversificada com baixo risco de default nos empréstimos
+		* Gestores conscientes dos riscos e com habilidade para gerenciamento da carteira
+		* Estamos evitando rentabilidades ilusórias ou temporárias
+	* Ao se investir em um FII de papel, é como se o investidor investisse em CRIs, CRAs, LCIs e LCAs
+* O que normalmente utilizamos para eliminar um Fils de papel?
+	* Taxas altas ou incondizentes
+	* Rentabilidades bizarras e não sustentáveis
+	* Gestores espertinhos
+	* Riscos desnecessários
+* Indicadores básicos para FOFs
+	* P/VP
+	* Dividend Yield
+	* Liquidez
+	* Taxa de Administração
+	* Taxa de performance
+	* Carteira estável
+	* Performance histórica
+* Para quem os Fundos de Fundos são ideais?
+	* Para investidores que buscam gestão passiva e não querem se preocupar com nada
+		* Ou seja? Quem vive de renda e é preguiçoso
+* Desvantagens dos FOFs
+	* Dupla taxa de administração (um fundo que investe em outro fundo - taxa de administração de um e de outro)
+	* Terceirização da escolha
+* O que estamos procurando?
+	* Uma carteira diversificada com baixo risco e rentabilidade mediana
+	* Evitar fundos de fundos que invistam em outros fundos de fundos, criando taxas bizarras
+	* Experiência dos gestores na gestão da carteira
+* O que normalmente utilizamos para eliminar um FOFs?
+	* Taxas altas ou incondizentes
+	* Rentabilidades bizarras e não sustentáveis
+	* Erros passados
+	* Baixa rentabilidade histórica
+* A importância de uma carteira estável
+	* FOFs investem em outros fundos, o risco deles é mais baixo devido à diversificação
+	* Devemos observar a performance de um FOF em momentos de crise e buscar um "achatamento" da rentabilidade
+	* Nem muito alta e nem muito baixa, a média
+* Vale substituir por um ETF que siga o IFIX?
+	* Perfeitamente - mas só lembre-se que não dá para ser feito na fase de renda --> ETFs não pagam dividendos no Brasil
+* O que normalmente utilizamos para eliminar um Fundo Híbrido?
+	* Taxas altas ou incondizentes
+	* Rentabilidades bizarras e não sustentáveis
+	* Desequilíbrio da carteira
+	* Irresponsabilidade na gestão
+* Indicadores básicos dos Fundos Híbridos
+	* Todos os apresentados anteriormente
+* Para quem os Fundos Híbridos são ideais?
+	* Aqui vale de tudo: Tijolo, FOFs, Papel, Híbridos - é a famosa "baguncinha"
+	* Ideal para quem busca diversificação e quer aproveitar de tudo - é tipo sorvete napolitano
+
+Aula 17 - PARTE 2 - Analisando um FII na prática
+* 
