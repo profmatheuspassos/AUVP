@@ -1037,4 +1037,10 @@ Aula 17 - Entendendo e comparando fundos imobiliários
 	* Ideal para quem busca diversificação e quer aproveitar de tudo - é tipo sorvete napolitano
 
 Aula 17 - PARTE 2 - Analisando um FII na prática
+* Começar pelo checklist para cada tipo de fundo
+	* Esses são critérios básicos: o investidor pode acrescentar os seus à medida que for desenvolvendo o estudo
+	* Uma análise profunda parte de se aprofundar em cada um destes pontos
+* De maneira prática, é interessante utilizar o "Notas" do iPhone (checklists)
+
+Aula 18 - Formando uma carteira de ações brasileiras
 * 
