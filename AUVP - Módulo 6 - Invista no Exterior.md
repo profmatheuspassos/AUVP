@@ -137,4 +137,104 @@ Aula 04 - Mercado dos EUA x Brasil
 * Bolsas americanas:
 	* NYSE: negociação de empresas mais clássicas
 	* Nasdaq: negociação das maiores empresas de tecnologia
+
+Aula 05 - ETFs
+* O que são ETFs?
+	* Exchange-traded funds, ou popularmente conhecido como ETF, são fundos de investimento que buscam replicar algum índice ou estabelecer alguns ativos de acordo com critérios estabelecidos. Ou seja, o gestor do fundo busca montar a composição da carteira de forma que ela fique o mais semelhante possível que a composição dos ativos do índice. Para isso, os ativos são comprados na mesma proporção, o que muitas vezes necessita de um grande investimento, o que não é um problema para os maiores fundos, visto que o dinheiro investido é na casa das centenas de milhões ou até mesmo bilhões.
+* No mundo existem 7 mil ETFs - os EUA tem mais de 4 mil do total
+- ﻿﻿São ETFs de ações, renda fixa, REITs, commodities, metais, moedas e vários outros tipos - incluindo ETFs de ações e dívidas brasileiras
+- ﻿O primeiro ETF do mundo foi criado no Canadá em 1990
+- Três  anos depois surgia o primeiro ETF americano - o SPY -, atualmente o maior do mundo
+- Site para análise: https://www.etf.com
+- De 2003 a 2019 o montante de dinheiro investido em ETFs subiu 3.000%, ultrapassando US$ 6 trilhões
+- ﻿﻿Vários dos maiores investidores do mundo defendem que um investidor convencional teria muito mais sucesso investindo apenas em ETFs
+- Os ﻿﻿ETFs garantem uma excelente diversificação e nos EUA pagam dividendos normalmente
+- ﻿﻿A maioria deles oferece eficiência e segurança a preços extremamente baixos dada a diversificação
+- ﻿﻿A ideia original dos ETFs é investir de forma passiva - esses, na opinião do Raul, são os melhores
+- ﻿﻿Em 2007, John Bogle publicou o livro "Investidor de Bom Senso" em uma alusão óbvia ao "Investidor Inteligente" de Graham
+	- ﻿﻿Investir em ETFs de baixo custo e controlar o seu emocional garante um desempenho superior a 90% dos investidores
+	- Simplesmente seguir o índice e se manter calmo
+	- ﻿﻿Apesar disso ele critica fortemente os ETFs que cobram taxas altas
+	- Um custo de apenas 2%, no longo prazo, reduz a sua rentabilidade em 17% depois de 10 anos, 43% depois de 30 anos e 61% depois de 50 anos
+- ﻿﻿Nesse ponto fique atento aos ETFs ativos: a equipe de gestores precisa se remunerada e por isso o dinheiro tem que sair do seu bolso
+- ﻿﻿A situação fica ainda pior quando analisamos estratégias que acabam perdendo para o índice, gerando custos ainda mais violentos
+- ﻿﻿O simples fato de investir em um ETF que segue o S&P500, já te faz ganhar de 90% dos fundos americanos
+- ﻿﻿Se é assim, por que os ETFs não são ainda mais populares?
+	- ﻿﻿O bom e velho **conflito de interesses**
+	- ﻿﻿**ETFs não pagam taxas gordas às corretoras e nem aos assessores de investimentos**
+	- ﻿﻿É muito melhor socar o cliente em um fundo com taxa de performance do que em um ETF
+- A ilusão do lucro fácil faz ainda com que vários investidores se julguem mais capazes do que um ETF passivo
+- ﻿﻿A história de Jack Meyer gestor do Harvard Management Company
+	- ﻿﻿A empresa que gere o fundo de investimentos da universidade de Harvard
+	- ﻿﻿De 1990 até 2005, Meyer levou o fundo de $ 5 bilhões para $ 25,9 bilhões de dólares
+	- ﻿﻿A estratégia de Meyer?
+		- Diversificar
+		- Evitar custos
+		- Investir para o longo prazo
+		- **Exatamente nessa ordem**
+
+Aula 05 - ETFs - Parte 2
+* O que vai determinar em partes o sucesso de um ETF em relação ao índice são as taxas cobradas por ele
+* Um ETF caro sai caro no longo prazo
+* Que tipo de ETF o investidor está buscando?
+* Existem ETFs de ações, REITS, renda fixa com foco nos EUA e/ou no resto do mundo
+* Com esse foco em mente, fica mais fácil usar as plataformas para filtrar as milhares de opções existentes
+* Qual índice esse ETF segue ou que estratégia ele adota?
+* Nem todo ETF tem foco apenas no crescimento ou lucro: existem ETFs com focos ideológicos
+	* Empresas geridas por mulheres
+	* Empresas ESG (empresas verdes)
+	* Empresas que investem em maconha
+	* Tudo isso é válido, mas é importante verificar o histórico desses ETFs
+* Primeiramente vamos conhecer as regras básicas do jogo
+* O que temos de analisar?
+	* O ETF é market cap weighted ou equal weighted?
+		* Equal weighted: divide os investimentos em proporções iguais nas empresas que fazem parte do ETF
+		* Market cap weighted: vai definir quanto vai investir em cada empresa baseado no tamanho da empresa
+		* **Mais recomendado: market cap weighted**
+	* Que tipo de exposição o investidor está buscando?
+		* ETFs globais?
+		* Gestão ativa ou passiva? *Os de gestão ativa geralmente têm menos retornos!*
+		* ETFs setoriais?
+			* Exemplos:
+				* IVV, SPY e VOO: ETFs americanos que investem apenas em empresas dos EUA
+				* No Brasil, BOVA11 e SMLL11 - ETFs brasileiros que investem apenas em empresas nacionais
+		* Entrega de dividendos
+	* A estratégia desse ETF é seguir um índice ou ele é de gestão ativa?
+	* A estratégia faz sentido dentro da sua carteira? Ou o investidor já não tem muita exposição nesse tipo de empresa?
+	* É coerente investir no ETF ou investidor achou a ideia "charmosa"?
+		* ﻿﻿Para atender demandas de mercado, muitas vezes os ETFs podem simplesmente criar uma estratégia marketeira
+		* É o caso do HEROES um ETF focado no mercado de games
+		* Não que o setor seja ruim, mas obviamente até o nome foi feito para atrair geeks
+	* Quais as maiores posições desse ETF?
+		* Tanto empresas quanto países!
+	* Qual o tamanho desse ETF?
+		* É o chamado Assets Under Management (AUM)
+		* O importante é procurar ETFs com um tamanho de pelo menos 100 milhões de dólares
+	* Quantos ativos tem esse ETF?
+		* ETFs mais concentrados oscilam mais violentamente
+		* ETFs mais diluídos oscilam menos
+	* Custos do ETF
+		* Qual a taxa de administração?
+		* tem algum outro no mercado que tenha a mesma estratégia e que seja mais barato?
+	* Tracking Error / Tracking Difference
+		* Qual a capacidade que o ETF tem de replicar o índice
+		* Quanto menor for o tracking error, melhor é a capacidade desse ETF de replicar o índice
+	* Liquidez
+		* O volume diário de negociações mostra ao investidor o quanto é fácil ou difícil sair e entrar desse ETF
+		* Um ETF "ok" precisa ter ao menos um milhão em volume diário negociado
+		* Métrica: Bid/Ask Average Spread: deve ser no máximo em 0,15
+	* Data de início
+		* Não tem problema investir pouco em ETFs recentes que tenham uma boa estratégia
+		* O deal é que o grosso da sua carteira esteja em ETFs antigos e com eficiência comprovada
+* Outro site: https://www.etfdb.com
+
+Aula 05 - ETFs - Parte 3
+* Ver na Comunidade
+	* Base de Conhecimento --> Investimentos Internacionais
+	* Base de Conhecimento --> ETFs Irlandeses
+
+Aula extra analisando na prática - REITs
+* Sites indicados:
+	* https://fundamentei.com
+	* https://finance.yahoo.com
 * 
