@@ -57,4 +57,33 @@ Aula 02 - Preparando a declaração
 * É importante que o investidor se familiarize com o Canal do Investidor da B3
 
 Aula 03 - Declarando ações
+* Procurar no site da B3 pelo preço médio das ações e incluir na descrição
+* Se houver lucro acima de R$ 20 mil:
+	* **Qualquer day trade - compra e venda no mesmo dia - precisa ser declarado**
+	* Operações comuns são compra e venda em dias diferentes
+
+Aula 4 - Imposto de Renda na Renda Fixa
+* ﻿﻿Existem investimentos de Renda Fixa isentos de IR e os que têm o imposto retido na fonte
+* Em ambos os casos, no fim do ano fiscal, o único dever do investidor é declarar: não é necessário pagar nada
+* São isentos de IR:
+	* Poupança, LCI, LCA, CRI, CRA e Debêntures Incentivadas
+	* Para declarar:
+		* Menu Bens e Direitos
+		* Código 04 - Aplicações e Investimentos
+		* Código 03 - Títulos Isentos de Tributação
+	* Para declarar os rendimentos:
+		* Menu Rendimentos isentos e não tributáveis
+		* Código 12 - Rendimentos de Cadernetas
+* Para declarar títulos sujeitos à tributação exclusiva:
+	* Menu Bens e Direitos
+	* Código 04 - Aplicações e Investimentos
+	* Código 02 - Títulos públicos e privados sujeitos à tributação
+* A alíquota do IR é regressiva e depende de quanto tempo o investidor deixa o dinheiro investido
+* É retido na fonte - o investidor já pagou!
+	* Até 6 meses: 22,5%
+	* De 6 meses a 1 ano: 20%
+	* De 1 a 2 anos: 17,5%
+	* Acima de 2 anos: 15%
+
+Aula 05 - Imposto de Renda nos Fundos de investimento
 * 
