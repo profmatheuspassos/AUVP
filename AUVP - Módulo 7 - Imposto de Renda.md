@@ -86,4 +86,41 @@ Aula 4 - Imposto de Renda na Renda Fixa
 	* Acima de 2 anos: 15%
 
 Aula 05 - Imposto de Renda nos Fundos de investimento
+* Do que se trata?
+	* Fundos de ações (FIA)
+	* Fundos multimercado (FIM)
+	* Fundos de renda fixa (FIRF)
+	* Fundos de debêntures
+	* Fundos cambiais
+	* Etc.
+* Do que NÃO se trata?
+	* ETFs
+	* Fundos imobiliários (FIl)
+	* Fundos do agronegócio (Fiagro)
+	* Fundos de investimento em infraestrutura (FI-Infra)
+* Fundos são divididos em:
+	* Curto prazo: resgate em até 360 dias
+	* Longo prazo: resgate após 360 dias
+* Nos fundos de investimento também se aplica a alíquota regressiva do IR, que já é retido na fonte - o investidor precisa apenas declarar
+* ﻿﻿Os fundos de investimento (RF, cambiais, multimercados) também estão sujeitos ao chamado "come-cotas"
+- ﻿﻿O come-cotas NÃO incide sobre os Flls, Fiagros, Fl-Infras e fundos de participação
+- Como funciona o come-cotas?
+	- Imposto cobrado a cada 6 meses
+	- Em maio e novembro, o governo "come" uma parte das suas cotas, referente ao imposto devido
+	- A cobrança é feita sobre os rendimentos do fundo - e não sobre o valor total que você investiu
+- Na prática, funciona assim:
+	- O investidor investe, em julho, R$ 12 mil no fundo "Sardinhas Loucas FIM"
+	- Recebe 1.200 cotas a R$ 10 cada
+	- Suponhamos que a cota se valorizou e, no último dia de novembro, está valendo R$ 13
+	- ﻿﻿Você tem, agora, R$ 15.600 (com o ganho de R$ 3.600)
+	- Como se passou menos de um ano, a Receita vai te cobrar 22,5% sobre este rendimento de R$ 3.600 = R$ 810
+	- Assim, o fisco vai "comer" 62 cotas para chegar ao valor de R$ 810
+- Em fundos de RF aplica-se a tabela regressiva do IR; em fundos de ações a alíquota é de 15% no momento do resgate
+- Bens e direitos, grupo 7 (fundos)
+	- Renda Fixa: Código 01
+	- Ações: Código 04
+	- Debêntures: Código 99
+	- ETF de Renda Fixa: Código 08
+
+Aula 06 - Imposto de Renda nos FIIs, Fiagros e FI-Infras
 * 
