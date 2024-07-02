@@ -123,4 +123,34 @@ Aula 05 - Imposto de Renda nos Fundos de investimento
 	- ETF de Renda Fixa: Código 08
 
 Aula 06 - Imposto de Renda nos FIIs, Fiagros e FI-Infras
+* Estes são fundos isentos de IR por estarem em setores incentivados:
+	* Fundos imobiliários (FII)
+	* Fundos de Investimento do Agronegócio (Fiagro)
+	* Fundos de Infraestrutura (Fi-Infra)
+* Existem algumas situações específicas em que não é necessário declarar estes fundos:
+	* Cotas inferiores a R$ 1 mil por fundo
+		* Só precisa declarar se tiver patrimônio total (incluindo os investimentos) superior a R$ 300 mil
+	* Rendimentos totais (fundos, ações e RF) abaixo de R$ 40 mil no ano
+	* Quem não vendeu as cotas e, portanto, não teve lucro (ganho de capital)
+	* Quem vendeu as cotas, com prejuízo, no valor total acima de R$ 40 mil
+* ﻿﻿Dessa forma, o investidor que apenas comprou as cotas, não vendeu e recebeu os proventos mensais não será tributado - mas pode precisar declarar se não se enquadrar nas hipóteses anteriores
+* Só vai pagar imposto quem vendeu as cotas e teve lucro na venda (ganho de capital)
+* Na prática, o investidor pode precisar fazer 3 coisas na declaração do IR:
+	* Informar quanto você tem investido nos fundos (Bens e Direitos)
+	* Informar os rendimentos mensais dos FIls, Fiagros e/ou FI-Infras
+	* Informar o ganho de capital (caso tenha vendido as cotas com lucro)
+* ﻿﻿**Detalhe importante**: ao contrário dos Flls e dos Fiagros, os FI-Infras também são isentos do IR sobre o ganho de capital
+	* Ou seja, é o único dos 3 fundos totalmente isento de tributação
+	* Ainda assim, é preciso fazer a declaração caso você venda as cotas, com lucro. Apenas declarar!
+* Para FIIs e Fiagros, o imposto cobrado é de 20% sobre o ganho de capital
+	* Comprei por R$ 100 e vendi por R$ 120 - pagarei 20% sobre os R$ 20 de lucro
+* **Texto para a discriminação**: "X cotas do fundo imobiliário ABCD11 adquiridas ao preço médio de R$ 00,99"
+* FIIs: declarar em Bens e Direitos, Grupo 7, Código 3
+* Fiagro: declarar em Bens e Direitos, Grupo 7, Código 2
+* Fi-infra: declarar em Bens e Direitos, Grupo 7, Código 99
+	* Nos Fi-infras é necessário declarar manualmente os Rendimentos Isentos e Não tributáveis
+	* Tipo de rendimento: 99
+	* Texto sugerido: "Recebimento de proventos do Fi-infra ABCD11"
+
+Aula 07 - Declarando dividendos, JCP, rendimentos e bonificações
 * 
