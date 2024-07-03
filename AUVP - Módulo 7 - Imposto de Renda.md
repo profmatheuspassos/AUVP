@@ -153,4 +153,58 @@ Aula 06 - Imposto de Renda nos FIIs, Fiagros e FI-Infras
 	* Texto sugerido: "Recebimento de proventos do Fi-infra ABCD11"
 
 Aula 07 - Declarando dividendos, JCP, rendimentos e bonificações
-* 
+* Sempre começar pelo site da B3, procurando pelo resumo da posição
+* Calcular sempre o preço médio - por ano e, depois, no geral
+* Em Bens e Direitos, Grupo 3, Código 1: "XXX ações de ABCD3 adquiridas ao preço médio de R$ 0,00"
+* Na B3: Relatórios, Anual
+* Rendimentos Isentos: Dividendos
+* Rendimentos Sujeitos à Tributação Exclusiva: JCP
+* Para declarar bonificações de ativos: Rendimentos Isentos e Não Tributáveis, Código 18
+	* Se não estiver disponível no site da B3, é necessário verificar no site da corretora
+	* É necessário procurar o valor das ações disponíbilizadas via bonificação e multiplicar pelo número de ações recebidas
+* Créditos em trâncito:
+	* Bens e Direitos, Grupo 99, Código 7 - Juros Sobre Capital Próprio creditado, mas não pago
+	* Descrição: "Proveniente das ações de ABCD3"
+
+Aula 08 - Investimentos Internacionais
+* Usar sempre o dólar PTAX do dia - disponível no site do Banco Central
+* Outra opção é dividir o valor em reais pelo número de ações compradas - melhor opção (segundo o Raul)
+* Quem precisa fazer a declaração de investimentos internacionais?
+	* Quem reside no brasil e investe no exterior
+* Quem não precisa declarar?
+	* Quem já deu saída definitiva do Brasil
+* Corretoras especializadas em clientes brasileiros já fornecem o informe de rendimentos
+* Corretoras americanas não disponibilizam o informe - mas aí utiliza-se o dólar PTAX do dia da compra
+* Assim como nos demais casos, o investidor precisa fazer três coisas diferentes:
+	* Informar quanto tem investido no exterior (Bens e Direitos)
+	* Informar os rendimentos recebidos (dividendos)
+	* Informar o ganho de capital (caso tenha feito vendas com lucro)
+* Cada uma destas declarações é feita em um lugar diferente:
+	* Valor investido: programa IRPF
+	* Rendimentos: carnê-leão online
+	* Ganho de capital: programa GCAP
+* Quem tem mais de US$ 1 milhão no exterior (soma de todos os bens, direitos, valores e ativos):
+	* Precisa, também, fazer a declaração de Capitais Brasileiros no Exterior (CBE)
+	* Este controle é feito pelo Banco Central, e não pela Receita Federal
+* No programa do IRPF:
+	* Bens e Direitos, Grupo 3, Código 1, País 249 (EUA)
+	* Descrição: "XX ações da empresa XYZ aberta na Bolsa de Valores americana com custo de aquisição de US$ 1.234,00"
+	* Embaixo indicar a situação ao final do ano em reais
+* Se a declaração for "manual", é necessário converter o valor em dólares para reais usando o dólar PTAX do dia de aquisição
+* Para declarar os rendimentos:
+	* Se for corretora americana, basta converter pelo dólar PTAX do dia em que os rendimentos foram creditados
+	* Se for corretora especializada em brasileiros, o valor já vem pronto
+	* Ir no Carnê-Leão online, clicar em "Rendimentos", selecionar a Natureza como "Outros", e declarar todos os meses em que houve rendimentos
+* Não se esquecer de declarar o imposto pago na aba "Imposto Pago/Retido" como imposto pago no exterior
+	* Se for de corretora americana, multiplicar pelo dólar PTAX do dia
+* É necessário declarar também o valor disponível em corretora
+	* Bens e Direitos, Grupo 6, Código 1, País 249 (EUA)
+	* Descrição sugerida: "Saldo de US$ 123,45 na Corretora XYZ"
+	* Saldo em reais no fim do ano
+* Como declarar os ganhos de capital?
+	* Baixar o programa GCAP do ano anterior
+	* Aba "Direitos/Bens Móveis", depois "Identificação"
+	* Especificação: "Ações da empresa XYZ"
+	* Pular para a aba "Operação"
+	* Selecionar "Alienação" e preencher o restante
+	* Finalizar exportando para o programa do IRPF
