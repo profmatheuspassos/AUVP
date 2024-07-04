@@ -208,3 +208,53 @@ Aula 08 - Investimentos Internacionais
 	* Pular para a aba "Operação"
 	* Selecionar "Alienação" e preencher o restante
 	* Finalizar exportando para o programa do IRPF
+
+Aula 09 - Criptomoedas
+* Criptoativos não são considerados como “moeda” pela Receita Federal
+* Mas são ativos que podem gerar ganho de capital e, por isso, precisam ser declarados
+* A obrigatoriedade, contudo, depende do valor de compra e de venda dos aticos
+* Na prática, o investidor pode precisar fazer duas coisas:
+	* Informar quanto investiu, em cada cripto, na declaração anual (Bens e Direitos) PELO PREÇO DE COMPRA
+	* Informar o ganho de capital usando o programa do GCAP
+* É necessário fazer a declaração anual:
+	* Quando o valor de compra de cada criptomoeda ou token for igual ou superior a R$ 5 mil
+	* Se o valor for menor não precisa fazer nada!
+	* Se as compras totais somadas de cada ativo chegarem a R$ 5 mil, também é necessário declarar
+* Para declarar faz-se o preço médio da compra
+* Bens e Direitos, Grupo 8, Código 1 - BTC
+* Indicar o pais
+* “X BTCs adquiridos via corretora XYX”, indicando o valor em reais ao final
+* A declaração no GCAP só é feita se houver lucro acima de R$ 35 mil - utilizar o dólar PTAX para o caso de compras em corretoras internacionais
+	* Preencher a guia “Operação” com os valores ganhos
+
+Aula 10 - Como gerar um DARF
+* Alguns investimentos têm o imposto retido na fonte, e outros bao
+* Em alguns casos é o investidor o responsável por emitir os boletos - o DARF: Documento de Arrecadação de Receitas Federais
+* Má notícia: todo investidor brasileiro vai, em algum momento, pagar um DARF
+* Boa notícia: só se paga um DARF se houver lucro em operações
+* Quando é necessário emitir um DARF?
+	* Compra e venda de ação, com lucro, no mesmo dia
+	* Venda de ações, com lucro, no valor total de venda acima de R$ 20 mil no mesmo mês
+	* Venda de cotas de ETFs ou fundos (FII ou Fiagro) com lucro
+* Se o valor do lucro for menor de R$ 10 não se emite DARF - o valor é acumulado para o mês subsequente
+* Cada operação tem uma alíquota específica:
+	* Ações - isento até R$ 20 mil/mês - 15%
+	* Day trade - sem isenção - 20%
+	* FII e Fiagro - sem isenção - 20%
+		* *Fi-Infras são isentos!*
+	* ETF (RF) - retido na fonte - regressiva
+	* ETF (RV) - sem isenção - 15%
+	* Ouro - isento até R$ 20 mil/mês - 15%
+* INSERIR TABELA DA FOTO
+* Para todas as operações na Bolsa de Valores utiliza-se o mesmo código na hora de gerar o DARF: 6015
+* Calcular o lucro obtido na negociação é simples:
+	* Venda - Compra - Gastos = Lucro
+	* Exemplo: SAPR11 - 100 ações - Preço médio: R$ 20 - Preço de Venda: R$ 30 - Lucro total: R$ 1 mil
+	* O imposto de 15% vai incidir sobre o lucro de R$ 1 mil = R$ 150 (valor do DARF)
+* Se decidir vender ações, tente fazer as operações com valor total inferior a R$ 20 mil no mês para evitar o IR
+* Se tiver prejuízo na venda, anote para fazer a compensação de eventuais vendas com lucro no futuro
+* Evite girar muito a carteira - o buy and hold é mais lucrativo no longo prazo
+* Para emitir um DARF basta acessar o site da Receita Federal e seguir o passo a passo
+* No ano seguinte o investidor vai informar as operações na declaração anual do imposto de renda
+* Na emissão do DARF basta indicar a quantidade de ações
+
