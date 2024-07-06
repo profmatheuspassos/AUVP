@@ -39,7 +39,8 @@ Aula 02 - Onde você está
 * O ideal é ter pelo menos sete raízes para que o investidor seja um investidor sólido
 
 Aula 03 - PIAR (Plataforma Integrada de Avaliação de Riscos)
-* O que o PIAR faz é fazer uma avaliação geral que entrega a Árvore do Cerrado com uma sugestão de investimentos em classes de ativos
+* O PIAR faz uma avaliação geral que entrega a Árvore do Cerrado pré-preenchida com uma sugestão de investimentos em classes de ativos
+* Ver "perfil-equilibrado.pdf"
 
 Aula 04 - Corrigindo os erros da sua carteira
 * Se o investidor tiver menos de R$ 20 mil investidos:
@@ -64,3 +65,50 @@ Aula 04 - Corrigindo os erros da sua carteira
 	* Por vezes, uma empresa pode perder os fundamentos - nesse caso é importante parar de aportar nessa empresa
 	* Ou pode ocorrer o contrário - a empresa melhorou os fundamentos, e aí o investidor retorna com os aportes
 
+Aula 05 - Como e quando vender uma ação?
+* Patrimônio é igual sabonete: quanto mais mexe, menor ele fica
+* Em determinado momento será necessário vender uma ação
+* Quando vender uma ação?
+	* "Não acredito mais na empresa" - com base em seus fundamentos:
+		* Ao menos 8 balanços trimestrais com prejuízo injustificado param-se os aportes (depois que a pessoa já investiu - *o Raul para a partir de 4 balanços*)
+		* Corrupção grave ou indícios de fraude
+		* Excesso de distribuição de lucro e irresponsabilidade da gestão da empresa
+	* Em caso de surgir uma emergência que não foi coberta pela reserva
+	* Quando chegar a hora de usufruir do patrimônio
+	* Nestes casos deve-se **pausar os aportes**
+* A primeira punição para uma empresa que está se deteriorando é **suspender os aportes**
+* A saída de uma ação deve ser gradual: a venda não deve ser feita de uma só vez
+* Pequenas saídas devem ser trimestrais ou mensais, fazendo preço médio na saída, conforme o valor do investimento (se houver R$ 100 investidos, pode-se sair de uma vez; se forem R$ 5 mil, a saída deve ser gradual)
+* NUNCA vender ações com base em notícias
+* NUNCA aportar além dos limites que decidiu no seu Diagrama do Cerrado
+* NUNCA tomar decisões sobre uma empresa no dia que a cotação está caindo gravemente
+
+Aula 6 - Como lidar com os erros?
+* O que fazer com as ações "ruins", inseridas na carteira por causa de um erro do investidor?
+* Deve-se pensar: as empresas ruins são tão ruins assim mesmo?
+* A pior decisão é vender!
+* Mesmo empresas ruins podem dar lucro em longo prazo - daí a ideia de "simplesmente" parar os aportes, mas não vendê-las
+* Sair das empresas geralmente deixa a carteira bagunçada e gera estresse no investidor, o que o torna mais propenso a erros no longo prazo
+* Se o investidor cometer um erro, simplesmente dá uma nota zero no Diagrama e deixa de aportar
+
+Aula 7 - E quando uma ação se valoriza demais?
+* Isto é um risco porque uma empresa, se se valorizar demais, passa a ser uma grande parcela dos investimentos da pessoa
+* O investidor é um "eterno arrependido" - porque investiu em uma empresa ruim, ou porque não investiu em uma empresa boa
+* Mesmo investidores muito experientes sentem vontade de vender quando uma ação sobe acima de 3 dígitos de alta
+	* Este tipo de venda é motivada principalmente pelo medo de perder dinheiro e da cotação cair - e isso de fato vai acontecer porque é natural do mercado
+	* Mesmo sabendo disso, é mais vantajoso ficar com a empresa
+* Exemplo: a WEGE3 valorizou 1.490,91% entre 2000 e 2011 - um aumento excepcional: quem investiu R$ 10 mil em 2000 estava chegando em R$ 200 mil
+* Quem vendeu lucrou, e quem não vendeu continuou no risco e recebeu uma oportunidade única na vida: a WEGE, até 2020, se valorizou 21.969,70%!
+	* Ou seja, quem vendeu na verdade não lucrou!
+* É por isso que não vale a pena vender ações, mesmo aquelas que são vistas como ruins!
+* No caso da WEGE3, quem continuou sócio até hoje transformou R$ 10 mil em R$ 2,4 milhões.
+* *A rentabilidade é um câncer!*
+* Efetivamente poderia ter dado tudo errado (mesmo no caso da WEGE3): a vantagem é que o investidor de longo prazo não precisa acertar todas - ele pode perder várias desde que acerte uma
+* Um trader jamais poderia fazer essa multiplicação
+* Não venda nunca baseado em cotação: aceite que não vai ganhar todas, aceite ser derrotado algumas vezes
+* Algumas empresas vão falir no caminho, outras vão empatar e uma delas pode se multiplicar por dezenas de vezes
+* Por isso deve-se parar de aportar, mas deixar a ação na carteira
+* Os erros do investidor constroem o patrimônio da mesma forma que seus acertos - ninguém acerta todas!
+
+Aula 8 - Controle sobre coisas que fogem do nosso controle
+* De nada adianta ter o conhecimento se ele não for colocado em prática
