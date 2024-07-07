@@ -6,14 +6,14 @@
 [[AUVP - Módulo 6 - Invista no Exterior]]
 [[AUVP - Módulo 7 - Imposto de Renda]]
 
-[[AUVP - Live 1 (2024-05-06)]]
-[[AUVP - Live 2 (2024-05-13)]]
-[[AUVP - Live 3 (2024-05-20)]]
-[[AUVP - Live 4 (2024-05-28)]]
-[[AUVP - Live 5 (2024-06-03)]]
-[[AUVP - Live 6 (2024-06-10)]]
-[[AUVP - Live 7 (2024-06-17)]]
-[[AUVP - Live 8 (2024-06-24)]]
+[[AUVP - Live 2024-05-06]]
+[[AUVP - Live 2024-05-13]]
+[[AUVP - Live 2024-05-20]]
+[[AUVP - Live 2024-05-28]]
+[[AUVP - Live 2024-06-03]]
+[[AUVP - Live 2024-06-10]]
+[[AUVP - Live 2024-06-17]]
+[[AUVP - Live 2024-06-24]]
 
 Aula 01 - O começo
 * A partir de agora o conhecimento é do investidor
@@ -111,4 +111,4 @@ Aula 7 - E quando uma ação se valoriza demais?
 * Os erros do investidor constroem o patrimônio da mesma forma que seus acertos - ninguém acerta todas!
 
 Aula 8 - Controle sobre coisas que fogem do nosso controle
-* De nada adianta ter o conhecimento se ele não for colocado em prática
+* De nada adianta ter o conhecimento se ele não for colocado em prática!
